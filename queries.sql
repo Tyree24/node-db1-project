@@ -1,6 +1,7 @@
 -- Database Queries
 
 -- Find all customers with postal code 1010
+-- "*" = all of whatver you're selecting
 
 SELECT *
 FROM Customers
